@@ -1,4 +1,4 @@
-# Daniel Lee Barren
+# Danny Barren
 
 ## About Me:
 
