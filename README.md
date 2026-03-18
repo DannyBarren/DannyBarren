@@ -26,7 +26,7 @@ Core Technical Skills
 Advanced Python (including libraries like Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, and Seaborn); SQL for database querying and management; Alteryx for workflow automation; Excel and PowerPoint for data visualization and reporting.
 
 ### AI/ML Proficiency: 
-Machine learning algorithms (regression, classification, clustering, neural networks); Deep learning for predictive modeling and object detection; Model training, evaluation, deployment, and ethical AI practices.
+Machine learning algorithms (regression, classification, clustering, neural networks); CrewAI and agentic tools; Deep learning for predictive modeling and object detection; Model training, evaluation, deployment, and ethical AI practices.
 
 ### Data Science & Analytics: 
 Statistical analysis, KPI tracking, forecasting models, data collection/processing/visualization, and deriving actionable insights from large datasets.
