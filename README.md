@@ -2,11 +2,12 @@
 
 ## About Me:
 
-I’m a skilled programmer specializing in AI and machine learning, with deep expertise in Python for solving real-world problems through data science and analytics. My work focuses on creating impactful, innovative solutions using AI-driven approaches.
+I’m a skilled programmer/developer specializing in Agentic AI, Neural Networks & Deep Learning, and machine learning, with deep expertise in Python for solving real-world problems through data science and analytics. My work focuses on creating impactful, innovative solutions using AI-driven approaches.
 
 With extensive experience in Python, I’ve developed tools for data analytics, visualization, and automation. My portfolio includes advanced machine learning and AI models for diverse applications. Key projects include:
 
 - A Python tool that automates data extraction from PDFs, producing DataFrames and CSVs for seamless analysis.
+- Agentic AI tools that automate complex tasks and make real-world decisions.
 - An automation pipeline with a web scraper to collect data from online dashboards, integrated with analysis and visualization modules for professional presentations.
 - High-accuracy AI models for predictive analytics and decision-making.
 
