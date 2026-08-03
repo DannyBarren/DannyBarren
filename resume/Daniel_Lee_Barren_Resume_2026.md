@@ -68,7 +68,6 @@ Custom Python + Alteryx workflows and agentic systems that reduced multi-day dat
 ## EDUCATION & CERTIFICATIONS
 
 Wittenberg University — B.A., Summa Cum Laude, 2020  
-Wilmington University — M.B.A., Analytics (In Progress)  
 **Caltech — Artificial Intelligence and Machine Learning Programming Certification, 2025**  
 **CompTIA Security+**
 
