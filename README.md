@@ -1,61 +1,73 @@
 # Danny Barren
 
 ## About Me
-I’m an AI/ML engineer and Python developer specializing in **Agentic AI, multi-agent systems, and intelligent process automation**. I design and deploy production-grade multi-agent systems that automate complex business workflows, make autonomous decisions, and deliver measurable results—routinely cutting 15–20 hours of administrative work per week.
+I’m an Agentic AI / Automation Engineer and the founder of **Barren Business Development**. I design and ship **sovereign, local-first, offline-capable multi-agent systems** that automate back-office workflows for trades, field-service, and SMB operations — eliminating 15–20 hours of administrative work per week while giving clients complete ownership of their systems (no subscriptions, no vendor lock-in, no data leaving their hardware).
 
-My work centers on CrewAI / LangChain-based agentic tools, RAG pipelines, neural networks, deep learning, and end-to-end automation. I combine advanced Python skills with data engineering, fintech domain experience, and practical deployment to create systems that solve real operational problems.
+My work centers on production multi-agent systems using CrewAI, LangChain, and LangGraph, local RAG pipelines (ChromaDB), and full-stack Python automation. I combine deep technical execution with real-world operational experience from JPMorgan Chase and independent consulting.
 
-**Highlighted capabilities:**
-- Production multi-agent AI systems (CrewAI, LangChain/LangGraph) for process automation, research, content, and knowledge retrieval
-- Offline-capable / local-first automation tools that clients fully own
-- High-accuracy predictive models, CNNs, and data pipelines for analytics and decision support
-- Quantifiable automation wins in enterprise environments
+**Core focus:**
+- Agentic AI workflows that autonomously handle intake, dispatching, reconciliation, reporting, and knowledge retrieval
+- Local / offline-capable deployment (models + code stay with the client)
+- Measurable ROI: 15–20 admin hours saved per week
+- Named products: NightForge, ReportForge, PrivaGen™, WPForge, FileMaid
 
-I’m open to collaborating on Agentic AI, process automation, and applied ML projects. Reach out anytime.
+I’m open to full-time, contract, part-time, gig, or collaborative opportunities in Agentic AI, intelligent process automation, and applied ML.
 
-## Technical Expertise in AI/ML, Data Science, Automation, and Python
-I specialize in applying Agentic AI, machine learning, data science, and automation techniques to solve real-world business problems, with a strong emphasis on production Python systems.
+## Technical Expertise
+**Agentic AI & Orchestration**  
+CrewAI, LangChain, LangGraph, multi-agent systems, RAG pipelines, local vector databases (ChromaDB), tool-calling agents, LLM orchestration (OpenAI, Grok, Llama)
 
-### Programming & Tools
-Advanced Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn + modern agent frameworks); SQL for database querying and management; Alteryx for workflow automation; Excel and PowerPoint for data visualization and reporting.
+**Machine Learning & Deep Learning**  
+TensorFlow, Keras, PyTorch, CNNs, 3D CNNs, Faster R-CNN, predictive modeling, synthetic data generation, model evaluation & deployment
 
-### AI/ML Proficiency
-Agentic AI and multi-agent systems (CrewAI, LangChain/LangGraph and related tools); RAG pipelines and local vector stores; Machine learning algorithms (regression, classification, clustering, neural networks); Deep learning for predictive modeling and object detection; Model training, evaluation, deployment, and ethical AI practices.
+**Automation Engineering**  
+End-to-end process automation, overnight batch orchestration, PDF extraction pipelines, web scraping, workflow engines, CRM/ERP integrations
 
-### Data Science & Analytics
-Statistical analysis, KPI tracking, forecasting models, data collection/processing/visualization, and deriving actionable insights from large datasets.
+**Languages & Data**  
+Advanced Python (Pandas, NumPy, Scikit-learn, Flask, Streamlit, WeasyPrint), SQL, Alteryx, data pipeline design
 
-### Automation Expertise
-Scripting and agentic systems for process optimization—including PDF data extraction, web scraping, dashboard automation, multi-agent research/content pipelines, and intelligent workflow orchestration that significantly reduce processing times.
+**Enterprise & Security**  
+Ariba, SAP, Concur, vendor/contract operations, CompTIA Security+
 
-## Key Projects and Achievements
-- **Agentic AI Process Automation Systems** (current core focus): Built and deployed multi-agent AI tools that automate complex tasks, research, content creation, knowledge retrieval, and operational workflows. These systems reduce administrative workloads by 15–20 hours per week. Key public repositories: **AgenticAIResearchTeam** (multi-agent market research & consulting deliverables with local ChromaDB + PDF output — my daily driver), **agentic-content-creation-automation**, and **internal-agentic-sme** chatbot.
-- **Workflow Automation at JPMorgan Chase**: Automated multi-day data analytics processes using Python and Alteryx, reducing processing time from over 15 hours to under 1 hour. Developed scripts for invoice PDF data extraction and database management with Python/SQL.
-- **LA Crime Prediction Model**: Developed a Convolutional Neural Network (CNN) in Python to predict weekly violent crime clusters in Los Angeles using public crime data (2020–Aug 2025) and environmental factors. Achieved high accuracy; currently building a user-friendly app with heatmaps for predicted vs. actual crime visualizations. View on GitHub.
-- **Autonomous Driving Neural Network**: Built a CNN-based object detection model in Python for autonomous vehicles, delivering exceptional accuracy in identifying and classifying objects. View on GitHub.
-- **Loan Default Prediction**: Created predictive models (including deep neural networks) in Python using TensorFlow and Keras to forecast loan defaults based on borrower data like credit history and economic indicators. Optimized for fintech risk assessment. View on GitHub | Version 2.
-- **Employee Turnover Prediction**: Designed an ML model in Jupyter Notebook to predict employee attrition, aiding HR in staffing strategies through data-driven insights. View on GitHub.
-- **Music Analysis and Recommendation System**: Implemented data science techniques in Jupyter Notebook to analyze music patterns, identify trends, and power AI-driven recommendation engines. View on GitHub.
-- **Market Forecasting and Campaign Analytics**: Utilized forecasting models for $20M+ investment decisions and Excel-based geo-mapping for a U.S. Congressional campaign, contributing to a 14-point victory through data-driven voter outreach.
+**Deployment**  
+Local/offline AI systems, on-prem model serving, self-hosted pipelines, Docker-ready architectures
 
-These projects and experiences demonstrate my ability to integrate Python, Agentic AI/ML, and data science for efficient, impactful solutions in high-stakes environments.
+## Key Projects & Products
 
-## Current Projects and Interests
-I’m refining my Los Angeles violent crime prediction model into a user-friendly application for law enforcement and public safety. The app allows users to input a week of the year (past data) to generate predictions, displaying results alongside two heatmaps: one for predicted crime clusters and one for actual data.
+### Production Agentic Systems (Current Core Work)
+- **NightForge** — Overnight agentic batch automation for invoicing, reconciliation, reporting, and dispatch prep (with automatic retries, cost tracking, and Streamlit UI)
+- **ReportForge** — Scheduled branded client and internal report generation from live data
+- **PrivaGen™** — Privacy-preserving synthetic data generation for testing and development
+- **WPForge** — Self-hosted AI content operations pipeline with brand-voice guardrails
+- **FileMaid** — Intelligent local file routing, tagging, and archival with full audit trails
 
-I continue expanding production agentic AI systems for process automation, focusing on multi-agent architectures, RAG, offline-capable tools, and measurable ROI.
+### Public Agentic Repositories
+- **AgenticAIResearchTeam** — Production multi-agent CrewAI system with Flask UI and local ChromaDB. Ingests client documents and autonomously produces market research, competitor matrices, solution architectures, pricing options, and professional PDFs. My daily driver for consulting work.
+- **internal-agentic-sme** — RAG-powered multi-agent knowledge system (Researcher → Analyst → Guardian) grounded in organizational SOPs
+- **agentic-content-creation-automation** — CrewAI pipeline that generates complete short-form video content packs (scripts, visual prompts, SEO metadata)
 
-## Certifications and Education
-- Caltech-designed bootcamp certification in AI/ML Programming (Python)
-- CompTIA Security+ certification
-- Pursuing an MBA with a specialization in Statistics and Analytics
-- Bachelor’s degree (triple major: Russian, Religious Studies, Political Science/International Studies). My linguistics background enhances work with large language models (LLMs) and has been valuable in developing AI-powered translation tools for professionals in the translation industry.
+### Enterprise & Predictive Work
+- **JPMorgan Chase Workflow Automation** — Python + Alteryx pipelines that reduced multi-day / 15–16 hour analytics and data processes to under 1 hour (in one case under 1 minute). Includes PDF invoice extraction and database management.
+- **LA Crime Prediction Model** — Multimodal 3D CNN (TensorFlow/Keras) forecasting weekly violent crime clusters across a 60×75 Los Angeles grid using crime + weather data (2020–Aug 2025). MAE ≈ 0.18. Currently building interactive heatmap application.
+- **Autonomous Driving Object Detection** — Faster R-CNN (PyTorch + ResNet50) trained on 5,000+ labeled images for vehicle and object classification/localization
+- **Loan Default Prediction** (v1 & v2) — Deep neural networks (TensorFlow/Keras) for fintech risk assessment
+- **ML Employee Turnover** — Predictive model supporting HR staffing strategies
+- **Music Analysis & Recommendation** — Data science pipeline for pattern detection and recommendation engines
 
-## Additional Experience and Skills
-My diverse background spans multiple industries, complementing my technical skills with strategic and analytical expertise:
-- Directed political operations for a U.S. Congressional campaign, sharpening leadership and strategic planning abilities.
-- Consulted for mid-sized companies and software firms, conducting market research to guide investments in emerging technologies.
-- Managed Fintech vendor and consultant relationships in the financial services industry (JPMorgan Chase), overseeing contracts and partnerships.
-- Extensive experience building process automation systems using AI/ML technologies.
+## Current Work
+Building and deploying client-owned agentic AI platforms through Barren Business Development while serving as Business Analyst at JPMorgan Chase (CIB Finance & Business Management). Expanding the NightForge product family, refining the LA crime prediction application, and continuing multi-agent research and automation systems.
 
-Open to full-time, contract, part-time, gig, or collaborative opportunities in Agentic AI, intelligent process automation, and applied machine learning.
+## Certifications, Education & Clearance
+- Caltech — Artificial Intelligence and Machine Learning Programming Certification (2025)
+- CompTIA Security+
+- Secret Security Clearance
+- Wittenberg University — B.A., Summa Cum Laude (2020). Triple major: Russian Language, Religious Studies, Political Science / International Studies
+- Ohio Army National Guard — E-5 (Non-Commissioned Officer), Airborne Qualified, Bradley Gunner (October 2020 – Present)
+
+## Additional Experience
+- **Founder & Agentic AI / Automation Engineer**, Barren Business Development (February 2026 – Present)
+- **Business Analyst**, JPMorgan Chase (June 2025 – Present) — Fintech and IT contracts/platforms, process improvement, data-driven reporting
+- Directed grassroots operations for a U.S. Congressional campaign (data-driven outreach contributing to a 14-point victory)
+- Business consulting for mid-sized companies in Ohio and software firms (market research and technology investment guidance)
+
+Open to high-impact opportunities in Agentic AI, process automation systems, local/sovereign AI, and applied machine learning — especially roles that value production deployment and measurable operational results.
