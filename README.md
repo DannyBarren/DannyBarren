@@ -38,7 +38,7 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 
 These are systems I designed and built. Private client remotes stay private. Clean public repos are being published as sanitized examples:
 
-- **NightForge** — overnight CrewAI lead research for trades SMBs. Public-data dossiers + review-only outreach drafts. Budget caps. Streamlit UI.
+- **[NightForge LeadForge](https://github.com/DannyBarren/NightForge-LeadForge)** — overnight CrewAI lead research for trades SMBs. Public-data dossiers + review-only outreach drafts. Budget caps. Streamlit UI.
 - **PrivaGen** — GPU-first image anonymizer (faces, on-image text, EXIF) with per-file JSON audit evidence and automatic CPU fallback.
 - **JobDoc / PDF → JSON** — turn a trades PDF into a validated field-report template a technician can capture against.
 - **WordPressGenius** — LangGraph operator for WordPress / WooCommerce. Draft-first. Approval gates. Backups before risky writes.
