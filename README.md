@@ -31,6 +31,7 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 | [Autonomous_Driving_Neural_Net](https://github.com/DannyBarren/Autonomous_Driving_Neural_Net) | Faster R-CNN + ResNet50 object detection trained on 5,000+ labeled frames. |
 | [Fill_Down_Demo](https://github.com/DannyBarren/Fill_Down_Demo) | Streamlit GL-coding demo: rules + similarity + review queue, existing codes never overwritten. |
 | [Loan_Default_Prediction_version_2](https://github.com/DannyBarren/Loan_Default_Prediction_version_2) | Keras credit-risk network for repayment / default scoring. |
+| [NightForge-LeadForge](https://github.com/DannyBarren/NightForge-LeadForge) | CrewAI + Streamlit overnight lead system for trades SMBs. Public-data research, $8 cap, human review on every row. |
 
 ---
 
