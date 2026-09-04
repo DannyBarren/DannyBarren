@@ -14,35 +14,45 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 
 **Agentic systems** — CrewAI, LangChain, LangGraph, tool-calling crews, local RAG (ChromaDB), overnight batch agents with cost caps  
 **Automation engineering** — PDF extraction → structured templates, GL/transaction coding, field-report capture, CRM/ops workflows  
-**Applied ML** — TensorFlow/Keras, PyTorch, 3D CNNs, Faster R-CNN, predictive models with measured error  
+**Applied ML** — TensorFlow/Keras, PyTorch, 3D CNNs, Faster R-CNN, stacked classifiers with a human review loop  
 **Security posture** — CompTIA Security+, Secret clearance, audit logs, read-only originals, secrets kept out of git  
 **Delivery** — Flask, FastAPI, Streamlit, Next.js, WeasyPrint PDFs, Docker, local/on-prem deploys
 
 ---
 
-## Public proof (start here)
+## Public proof (pinned)
+
+| Repo | What it shows |
+| --- | --- |
+| [NightForge-LeadForge](https://github.com/DannyBarren/NightForge-LeadForge) | CrewAI + Streamlit overnight lead system for trades SMBs. Public data only. $8 cap. Human review on every row. No emails sent. |
+| [PrivaGen-Anonymizer](https://github.com/DannyBarren/PrivaGen-Anonymizer) | GPU-first image anonymizer: faces, on-image text, EXIF strip, per-file JSON audit. Automatic CPU fallback. Originals never written. |
+| [WordPressGenius](https://github.com/DannyBarren/WordPressGenius) | LangGraph operator for WordPress / WooCommerce. Draft-first. Approval gates. JSON backup before risky writes. |
+| [Code_Down_ML](https://github.com/DannyBarren/Code_Down_ML) | Stacked GL coder: rules → memory → TF-IDF → LogReg (SetFit optional). Review queue. Existing codes never overwritten. |
+| [LA_Crime_Prediction](https://github.com/DannyBarren/LA_Crime_Prediction) | Multimodal 3D CNN: next-week violent-crime counts on a 60×75 LA grid. Crime + weather/holiday tensors. Reported val MAE ≈ 0.18. |
+| [Autonomous_Driving_Neural_Net](https://github.com/DannyBarren/Autonomous_Driving_Neural_Net) | Faster R-CNN ResNet50-FPN fine-tune: 11 vehicle/person classes, ~5.6k frames. Reported train loss 0.50 → 0.45 over 2 epochs. |
+
+---
+
+## Also public
 
 | Repo | What it shows |
 | --- | --- |
 | [AgenticAIResearchTeam](https://github.com/DannyBarren/AgenticAIResearchTeam) | CrewAI + Flask + local Chroma. Ingest documents → market research, competitor matrix, architecture, pricing, PDF. |
 | [internal-agentic-sme](https://github.com/DannyBarren/internal-agentic-sme) | Researcher → Analyst → Guardian RAG crew grounded in organizational SOPs. |
 | [agentic-content-creation-automation](https://github.com/DannyBarren/agentic-content-creation-automation) | CrewAI pipeline for short-form scripts, visual prompts, and SEO metadata. |
-| [LA_Crime_Prediction](https://github.com/DannyBarren/LA_Crime_Prediction) | Multimodal 3D CNN forecasting weekly violent-crime clusters on a 60×75 LA grid. MAE ≈ 0.18. |
-| [Autonomous_Driving_Neural_Net](https://github.com/DannyBarren/Autonomous_Driving_Neural_Net) | Faster R-CNN + ResNet50 object detection trained on 5,000+ labeled frames. |
-| [Fill_Down_Demo](https://github.com/DannyBarren/Fill_Down_Demo) | Streamlit GL-coding demo: rules + similarity + review queue, existing codes never overwritten. |
-| [Loan_Default_Prediction_version_2](https://github.com/DannyBarren/Loan_Default_Prediction_version_2) | Keras credit-risk network for repayment / default scoring. |
-| [NightForge-LeadForge](https://github.com/DannyBarren/NightForge-LeadForge) | CrewAI + Streamlit overnight lead system for trades SMBs. Public-data research, $8 cap, human review on every row. |
+| [Loan_Default_Prediction_version_2](https://github.com/DannyBarren/Loan_Default_Prediction_version_2) | Keras credit-risk net on imbalanced Lending Club rows. Reported default F1 0.35, ROC-AUC 0.68. |
 
 ---
 
-## Product systems (public showcase copies rolling out)
+## Product systems
 
-These are systems I designed and built. Private client remotes stay private. Clean public repos are being published as sanitized examples:
+These are systems I designed and built. Private client remotes stay private. The public repos above are sanitized showcase copies.
 
-- **[NightForge LeadForge](https://github.com/DannyBarren/NightForge-LeadForge)** — overnight CrewAI lead research for trades SMBs. Public-data dossiers + review-only outreach drafts. Budget caps. Streamlit UI.
-- **[PrivaGen](https://github.com/DannyBarren/PrivaGen-Anonymizer)** — GPU-first image anonymizer (faces, on-image text, EXIF) with per-file JSON audit and automatic CPU fallback.
-- **JobDoc / PDF → JSON** — turn a trades PDF into a validated field-report template a technician can capture against.
-- **WordPressGenius** — LangGraph operator for WordPress / WooCommerce. Draft-first. Approval gates. Backups before risky writes.
+- **NightForge LeadForge** — overnight CrewAI lead research. Public-data dossiers + review-only outreach drafts. Budget caps.
+- **PrivaGen** — GPU-first image anonymizer with per-file audit and CPU fallback.
+- **WordPressGenius** — LangGraph WordPress / WooCommerce operator. Draft-first. Approval gates. Backups before writes.
+- **Code_Down_ML** — stacked transaction coder with a review loop that writes memory.
+- **JobDoc / PDF → JSON** — turn a trades PDF into a validated field-report template. Public twin not shipped yet.
 
 ---
 
