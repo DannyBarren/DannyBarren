@@ -6,6 +6,8 @@ Open to **full-time and contract** · Remote or Midwest hybrid
 
 I design and ship **local-first multi-agent systems** that take messy operational work — intake, coding, reporting, dispatch prep, knowledge lookup — and turn it into an auditable pipeline a real business can run. Python-first. Production UIs. Human review gates. No vendor lock-in.
 
+**Featured Repo: Primus (https://github.com/DannyBarren/primus) - a local-first agentic operator that lives on your device**
+
 Previously automated multi-day analytics and data processes at **JPMorgan Chase** (Nov 2022 – May 2026) down to under an hour. Now building and deploying client-owned agentic systems through **Barren Business Development** (May 2026 – present).
 
 ---
