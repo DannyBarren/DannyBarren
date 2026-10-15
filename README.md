@@ -66,9 +66,9 @@ These are systems I designed and built. Private client remotes stay private. The
 - Caltech — AI / ML Programming (2025)
 - CompTIA Security+
 - Secret security clearance
-- Wittenberg University — B.A., Summa Cum Laude (2020). Triple major: Russian, Religious Studies, Political Science / International Studies. College Football (Offensive Line).
+- Wittenberg University — B.A. Summa Cum Laude (2020). Triple major: Russian, Religious Studies, Political Science / International Studies. College Football (Offensive Line).
 - Ohio Army National Guard — E-5, Airborne, Bradley Gunner (ETS October 5, 2026)
-- Assisted Trina Rosing with statistical support (GAM modeling) for research publication, University of Miami Rosenstiel School of Marine, Atmosphere, and Earth Science. Manuscript in preparation.
+- Statistical and analytical support (GAM modeling of microbial abundance data) for Rosing, T., et al. Characterizing seawater microbiomes near reefs in the Gulf Coast. University of Miami Rosenstiel School of Marine, Atmosphere, and Earth Science. Manuscript in preparation.
 
 ## How I work
 
