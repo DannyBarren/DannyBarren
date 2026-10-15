@@ -1,5 +1,7 @@
 # Danny Barren
 
+[Link to my GitHub CV](https://github.com/DannyBarren/Danny_Barren_CV)
+
 **Agentic AI / Automation Engineer** · Columbus, OH · Palm Beach, FL · Remote  
 Open to **full-time and contract** · Remote or Midwest hybrid  
 [github.com/DannyBarren](https://github.com/DannyBarren) · [dannybarren.com](https://dannybarren.com)
