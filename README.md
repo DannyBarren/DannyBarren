@@ -1,6 +1,6 @@
 # Danny Barren
 
-**Agentic AI / Automation Engineer** · Columbus, OH  
+**Agentic AI / Automation Engineer** · Columbus, OH · Palm Beach, FL · Remote  
 Open to **full-time and contract** · Remote or Midwest hybrid  
 [github.com/DannyBarren](https://github.com/DannyBarren) · [dannybarren.com](https://dannybarren.com)
 
@@ -8,7 +8,7 @@ I design and ship **local-first multi-agent systems** that take messy operationa
 
 **Featured Repo: Primus (https://github.com/DannyBarren/primus) - a local-first agentic operator that lives on your device**
 
-Previously automated multi-day analytics and data processes at **JPMorgan Chase** (Nov 2022 – May 2026) down to under an hour. Now building and deploying client-owned agentic systems through **Barren Business Development** (May 2026 – present).
+Previously automated multi-day analytics and data processes at **JPMorgan Chase** (Nov 2022 – May 2026) down to under an hour, including end-to-end data pipelines (20-hour tasks to under 10 minutes) and ML semantic extraction for contract analysis. Now building and deploying client-owned agentic systems through **Independent Custom AI/ML Development and Software Engineering** (May 2026 – present).
 
 ---
 
@@ -16,7 +16,7 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 
 **Agentic systems** — CrewAI, LangChain, LangGraph, tool-calling crews, local RAG (ChromaDB), overnight batch agents with cost caps  
 **Automation engineering** — PDF extraction → structured templates, GL/transaction coding, field-report capture, CRM/ops workflows  
-**Applied ML** — TensorFlow/Keras, PyTorch, 3D CNNs, Faster R-CNN, stacked classifiers with a human review loop  
+**Applied ML** — TensorFlow/Keras, PyTorch, 3D CNNs, Faster R-CNN, stacked classifiers with a human review loop, GAM modeling  
 **Security posture** — CompTIA Security+, Secret clearance, audit logs, read-only originals, secrets kept out of git  
 **Delivery** — Flask, FastAPI, Streamlit, Next.js, WeasyPrint PDFs, Docker, local/on-prem deploys
 
@@ -43,6 +43,8 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 | [internal-agentic-sme](https://github.com/DannyBarren/internal-agentic-sme) | Researcher → Analyst → Guardian RAG crew grounded in organizational SOPs. |
 | [agentic-content-creation-automation](https://github.com/DannyBarren/agentic-content-creation-automation) | CrewAI pipeline for short-form scripts, visual prompts, and SEO metadata. |
 | [Loan_Default_Prediction_version_2](https://github.com/DannyBarren/Loan_Default_Prediction_version_2) | Keras credit-risk net on imbalanced Lending Club rows. Reported default F1 0.35, ROC-AUC 0.68. |
+| [report_automation](https://github.com/DannyBarren/report_automation) | Automation for generating reports from structured data and templates. |
+| [primus](https://github.com/DannyBarren/primus) | Local-first agentic operator: files, mail, and shell with approval gates. |
 
 ---
 
@@ -50,6 +52,7 @@ Previously automated multi-day analytics and data processes at **JPMorgan Chase*
 
 These are systems I designed and built. Private client remotes stay private. The public repos above are sanitized showcase copies.
 
+- **PoleDrop** (private client) — Full re-engineering of SwiftUI/Firebase iOS app into FastAPI + SQLAlchemy web app with hybrid NFC, real ops data, performance engineering, and ML foundation for sports equipment rental.
 - **NightForge LeadForge** — overnight CrewAI lead research. Public-data dossiers + review-only outreach drafts. Budget caps.
 - **PrivaGen** — GPU-first image anonymizer with per-file audit and CPU fallback.
 - **WordPressGenius** — LangGraph WordPress / WooCommerce operator. Draft-first. Approval gates. Backups before writes.
@@ -63,8 +66,9 @@ These are systems I designed and built. Private client remotes stay private. The
 - Caltech — AI / ML Programming (2025)
 - CompTIA Security+
 - Secret security clearance
-- Wittenberg University — B.A., Summa Cum Laude (2020). Triple major: Russian, Religious Studies, Political Science / International Studies
-- Ohio Army National Guard — E-5, Airborne, Bradley Gunner (2020 – present)
+- Wittenberg University — B.A., Summa Cum Laude (2020). Triple major: Russian, Religious Studies, Political Science / International Studies. College Football (Offensive Line).
+- Ohio Army National Guard — E-5, Airborne, Bradley Gunner (ETS October 5, 2026)
+- Assisted Trina Rosing with statistical support (GAM modeling) for research publication, University of Miami Rosenstiel School of Marine, Atmosphere, and Earth Science. Manuscript in preparation.
 
 ## How I work
 
