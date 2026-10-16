@@ -10,6 +10,8 @@ I design and ship **local-first multi-agent systems** that take messy operationa
 
 **Featured Repo: Primus (https://github.com/DannyBarren/primus) - a local-first agentic operator that lives on your device**
 
+![DannyBarren](banner.png)
+
 Previously automated multi-day analytics and data processes at **JPMorgan Chase** (Nov 2022 – May 2026) down to under an hour, including end-to-end data pipelines (20-hour tasks to under 10 minutes) and ML semantic extraction for contract analysis. Now building and deploying client-owned agentic systems through **Independent Custom AI/ML Development and Software Engineering** (May 2026 – present).
 
 ---
