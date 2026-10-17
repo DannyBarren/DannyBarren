@@ -6,6 +6,9 @@
 Open to **full-time and contract** · Remote or Midwest hybrid  
 [github.com/DannyBarren](https://github.com/DannyBarren) · [dannybarren.com](https://dannybarren.com)
 
+**The First Version of My Free ML Course: Machine Learning for Business Insights:**
+[Link Here](https://github.com/DannyBarren/ML_for_Business)
+
 I design and ship **local-first multi-agent systems** that take messy operational work — intake, coding, reporting, dispatch prep, knowledge lookup — and turn it into an auditable pipeline a real business can run. Python-first. Production UIs. Human review gates. No vendor lock-in.
 
 **Featured Repo: Primus (https://github.com/DannyBarren/primus) - a local-first agentic operator that lives on your device**
