@@ -1,6 +1,6 @@
 # DANIEL LEE BARREN
 
-**Columbus, OH** · (614) 440-3220 · barren.danny@gmail.com · dan@dannybarren.com  
+**Columbus, OH** · Email available on request · dan@dannybarren.com  
 github.com/DannyBarren · dannybarren.com · linkedin.com/in/danny-barren
 
 ## PROFESSIONAL SUMMARY
