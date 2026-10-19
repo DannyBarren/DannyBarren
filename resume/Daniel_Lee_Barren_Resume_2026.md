@@ -1,6 +1,6 @@
 # DANIEL LEE BARREN
 
-**Columbus, OH** · [removed] · [removed] · dan@dannybarren.com  
+**Columbus, OH** · Email available on request · dan@dannybarren.com  
 github.com/DannyBarren · dannybarren.com · linkedin.com/in/danny-barren
 
 ## PROFESSIONAL SUMMARY
