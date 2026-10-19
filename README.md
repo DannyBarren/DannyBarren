@@ -1,87 +1,43 @@
-# Danny Barren
+# Daniel Lee Barren
 
-[Link to my GitHub CV](https://github.com/DannyBarren/Danny_Barren_CV)
+**Agentic systems · AI data engineering · applied ML**  
+Columbus, OH · open to senior full-time or contract · remote or Midwest hybrid
 
-**Agentic AI / Automation Engineer** · Columbus, OH · Palm Beach, FL · Remote  
-Open to **full-time and contract** · Remote or Midwest hybrid  
-[github.com/DannyBarren](https://github.com/DannyBarren) · [dannybarren.com](https://dannybarren.com)
+[dannybarren.com](https://dannybarren.com) · [GitHub](https://github.com/DannyBarren) · [LinkedIn](https://www.linkedin.com/in/danny-barren) · dan@dannybarren.com
 
-**The First Version of My Free ML Course: Machine Learning for Business Insights:**
-[Link Here](https://github.com/DannyBarren/ML_for_Business)
+![Daniel Barren — Agentic AI Engineer](banner.png)
 
-**My Course on Software Engineering for Vibe Coders**
-[Link Here](https://github.com/DannyBarren/Vibe_Coder_School)
+I build **local-first, approval-gated agent systems** and the data/ML pipelines around them. Python-first. Production UIs. Human review before anything irreversible. No vendor lock-in.
 
-I design and ship **local-first multi-agent systems** that take messy operational work — intake, coding, reporting, dispatch prep, knowledge lookup — and turn it into an auditable pipeline a real business can run. Python-first. Production UIs. Human review gates. No vendor lock-in.
+Former **JPMorgan Chase** (Nov 2022 – May 2026), where I automated multi-day analytics and document workflows down to under an hour. Founder of **Barren Business Development**. Ohio Army National Guard veteran (ETS Oct 2026). MBA in Statistics & Analytics in progress at Wilmington University.
 
-**Featured Repo: Primus (https://github.com/DannyBarren/primus) - a local-first agentic operator that lives on your device**
+## Focus
 
-![DannyBarren](banner.png)
+- **Agentic systems** — LangGraph, LangChain, CrewAI; tool-calling operators; approval gates; cost caps; local RAG
+- **AI data engineering** — PDF → validated JSON, structured extraction, audit trails, evals that run without live APIs
+- **Applied ML for operations** — ledger coding, stacked classifiers, review queues that never overwrite ground truth
 
-Previously automated multi-day analytics and data processes at **JPMorgan Chase** (Nov 2022 – May 2026) down to under an hour, including end-to-end data pipelines (20-hour tasks to under 10 minutes) and ML semantic extraction for contract analysis. Now building and deploying client-owned agentic systems through **Independent Custom AI/ML Development and Software Engineering** (May 2026 – present).
+## Flagship work
 
----
-
-## What I am good at
-
-**Agentic systems** — CrewAI, LangChain, LangGraph, tool-calling crews, local RAG (ChromaDB), overnight batch agents with cost caps  
-**Automation engineering** — PDF extraction → structured templates, GL/transaction coding, field-report capture, CRM/ops workflows  
-**Applied ML** — TensorFlow/Keras, PyTorch, 3D CNNs, Faster R-CNN, stacked classifiers with a human review loop, GAM modeling  
-**Security posture** — CompTIA Security+, Secret clearance, audit logs, read-only originals, secrets kept out of git  
-**Delivery** — Flask, FastAPI, Streamlit, Next.js, WeasyPrint PDFs, Docker, local/on-prem deploys
-
----
-
-## Public proof (pinned)
-
-| Repo | What it shows |
+| Project | What it is |
 | --- | --- |
-| [NightForge-LeadForge](https://github.com/DannyBarren/NightForge-LeadForge) | CrewAI + Streamlit overnight lead system for trades SMBs. Public data only. $8 cap. Human review on every row. No emails sent. |
-| [PrivaGen-Anonymizer](https://github.com/DannyBarren/PrivaGen-Anonymizer) | GPU-first image anonymizer: faces, on-image text, EXIF strip, per-file JSON audit. Automatic CPU fallback. Originals never written. |
-| [WordPressGenius](https://github.com/DannyBarren/WordPressGenius) | LangGraph operator for WordPress / WooCommerce. Draft-first. Approval gates. JSON backup before risky writes. |
-| [Code_Down_ML](https://github.com/DannyBarren/Code_Down_ML) | Stacked GL coder: rules → memory → TF-IDF → LogReg (SetFit optional). Review queue. Existing codes never overwritten. |
-| [LA_Crime_Prediction](https://github.com/DannyBarren/LA_Crime_Prediction) | Multimodal 3D CNN: next-week violent-crime counts on a 60×75 LA grid. Crime + weather/holiday tensors. Reported val MAE ≈ 0.18. |
-| [Autonomous_Driving_Neural_Net](https://github.com/DannyBarren/Autonomous_Driving_Neural_Net) | Faster R-CNN ResNet50-FPN fine-tune: 11 vehicle/person classes, ~5.6k frames. Reported train loss 0.50 → 0.45 over 2 epochs. |
+| [primus](https://github.com/DannyBarren/primus) | Local LangGraph desktop operator for files, mail, and shell. ~120 tools packed by intent. Destructive commands wait for approval. |
+| [NightForge-LeadForge](https://github.com/DannyBarren/NightForge-LeadForge) | Overnight lead-gen pipeline with a hard spend cap, human review on every row, and no send path. |
+| [WordPressGenius](https://github.com/DannyBarren/WordPressGenius) | LangGraph WordPress / WooCommerce operator. Drafts are free; publishes, deletes, and refunds wait for approval and a JSON backup. |
+| [PrivaGen-Anonymizer](https://github.com/DannyBarren/PrivaGen-Anonymizer) | GPU-first image anonymizer: faces, on-image text, EXIF strip, per-file JSON audit. Originals never written. Automatic CPU fallback. |
+| [Code_Down_ML](https://github.com/DannyBarren/Code_Down_ML) | Ledger auto-fill: rules → memory → TF-IDF → LogReg (SetFit optional). Review queue. Existing codes never overwritten. |
+| [PDF_to_JSON](https://github.com/DannyBarren/PDF_to_JSON) | Trades PDF → validated JobDoc `ReportTemplate` JSON (schema v3). FastAPI + CLI. The pipeline never returns an invalid template. |
+| [report_automation](https://github.com/DannyBarren/report_automation) (JobDoc) | Narrated field walkthrough → structured PDF report. Speech-to-text, writing agent, WeasyPrint. |
 
----
+## Stack
 
-## Also public
+**Agents:** LangGraph, LangChain, CrewAI, Ollama, tool packs, approval queues  
+**Services:** Python, FastAPI, Streamlit, Gradio, Flask, Pydantic v2, Docker  
+**Data / ML:** Pandas, scikit-learn, TF-IDF / LogReg / SetFit, PyMuPDF, WeasyPrint  
+**Safety:** pytest, eval cases, encrypted credential vaults, audit logs, budget governors
 
-| Repo | What it shows |
-| --- | --- |
-| [AgenticAIResearchTeam](https://github.com/DannyBarren/AgenticAIResearchTeam) | CrewAI + Flask + local Chroma. Ingest documents → market research, competitor matrix, architecture, pricing, PDF. |
-| [internal-agentic-sme](https://github.com/DannyBarren/internal-agentic-sme) | Researcher → Analyst → Guardian RAG crew grounded in organizational SOPs. |
-| [agentic-content-creation-automation](https://github.com/DannyBarren/agentic-content-creation-automation) | CrewAI pipeline for short-form scripts, visual prompts, and SEO metadata. |
-| [Loan_Default_Prediction_version_2](https://github.com/DannyBarren/Loan_Default_Prediction_version_2) | Keras credit-risk net on imbalanced Lending Club rows. Reported default F1 0.35, ROC-AUC 0.68. |
-| [report_automation](https://github.com/DannyBarren/report_automation) | Automation for generating reports from structured data and templates. |
-| [primus](https://github.com/DannyBarren/primus) | Local-first agentic operator: files, mail, and shell with approval gates. |
+Caltech AI/ML Programming (2025) · CompTIA Security+ · Secret clearance
 
----
+## Contact
 
-## Product systems
-
-These are systems I designed and built. Private client remotes stay private. The public repos above are sanitized showcase copies.
-
-- **PoleDrop** (private client) — Full re-engineering of SwiftUI/Firebase iOS app into FastAPI + SQLAlchemy web app with hybrid NFC, real ops data, performance engineering, and ML foundation for sports equipment rental.
-- **NightForge LeadForge** — overnight CrewAI lead research. Public-data dossiers + review-only outreach drafts. Budget caps.
-- **PrivaGen** — GPU-first image anonymizer with per-file audit and CPU fallback.
-- **WordPressGenius** — LangGraph WordPress / WooCommerce operator. Draft-first. Approval gates. Backups before writes.
-- **Code_Down_ML** — stacked transaction coder with a review loop that writes memory.
-- **JobDoc / PDF → JSON** — turn a trades PDF into a validated field-report template. Public twin not shipped yet.
-
----
-
-## Credentials
-
-- Caltech — AI / ML Programming (2025)
-- CompTIA Security+
-- Secret security clearance
-- Wittenberg University — B.A. Summa Cum Laude (2020). Triple major: Russian, Religious Studies, Political Science / International Studies. College Football (Offensive Line).
-- Ohio Army National Guard — E-5, Airborne, Bradley Gunner (ETS October 5, 2026)
-- Statistical and analytical support (GAM modeling of microbial abundance data) for Rosing, T., et al. Characterizing seawater microbiomes near reefs in the Gulf Coast. University of Miami Rosenstiel School of Marine, Atmosphere, and Earth Science. Manuscript in preparation.
-
-## How I work
-
-I would rather ship a system a shop owner or analyst can run on Monday than a notebook that dies in a slide deck. Agents get tools, budgets, and a human review step. Data stays with the client when that is the requirement.
-
-Open to high-impact **full-time or contract** roles in agentic AI, process automation, RAG / knowledge systems, and applied ML.
+**dan@dannybarren.com** · [dannybarren.com](https://dannybarren.com) · [LinkedIn](https://www.linkedin.com/in/danny-barren) · [github.com/DannyBarren](https://github.com/DannyBarren)
